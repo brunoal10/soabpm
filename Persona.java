@@ -1,2 +1,5 @@
 Nombre 
 Apellido
+
+Edad
+DNI
